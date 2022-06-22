@@ -36,3 +36,11 @@ body {
   background-position: center;
   height: 350px;
 }
+
+.banner-about {
+  height: 250px;
+  background-image: url(../img/about/banner-about.jpg);
+  background-position: top;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
