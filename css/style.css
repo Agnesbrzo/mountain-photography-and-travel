@@ -16,7 +16,7 @@ body {
   left: 0;
   width: 100%;
   height: 100%;
-  background-color: rgba(0, 78, 78, 0.644);
+  background-color: rgba(0, 70, 70, 0.651);
 }
 
 @media (min-width: 960px) {
@@ -28,4 +28,11 @@ body {
   header img {
     height: 820px;
   }
+}
+
+.main-image {
+  background-image: url(../img/main-travelphoto.jpg);
+  background-size: cover;
+  background-position: center;
+  height: 350px;
 }
