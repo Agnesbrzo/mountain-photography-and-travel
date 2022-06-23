@@ -37,12 +37,17 @@ body {
   height: 350px;
 }
 
+/* aboutus.html */
+
 .banner-about {
   height: 250px;
   background-image: url(../img/about/banner-about.jpg);
   background-position: top;
   background-size: cover;
   background-repeat: no-repeat;
+}
+.aboutus-banner-heading {
+  letter-spacing: 0.15rem;
 }
 
 .img-second {
