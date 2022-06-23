@@ -87,3 +87,12 @@ body {
     left: -135px;
   }
 }
+
+/* services.html */
+.banner-services {
+  height: 250px;
+  background-image: url(../img/services/services-photo-banner.jpg);
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
