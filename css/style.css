@@ -44,3 +44,41 @@ body {
   background-size: cover;
   background-repeat: no-repeat;
 }
+
+.img-second {
+  max-height: 325px;
+  text-align: center;
+}
+
+@media (min-width: 992px) {
+  .main-special-text {
+    transform: skew(-15deg);
+  }
+  .text-1 {
+    position: relative;
+    left: 55px;
+  }
+  .text-2 {
+    position: relative;
+    left: -55px;
+  }
+}
+
+@media (min-width: 1200px) {
+  .text-1 {
+    left: 95px;
+    line-height: 1.8rem;
+  }
+  .text-2 {
+    left: -95px;
+    line-height: 1.8rem;
+  }
+}
+@media (min-width: 1400px) {
+  .text-1 {
+    left: 135px;
+  }
+  .text-2 {
+    left: -135px;
+  }
+}
