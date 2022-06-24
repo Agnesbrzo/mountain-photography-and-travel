@@ -113,3 +113,12 @@ body {
   background-size: cover;
   background-repeat: no-repeat;
 }
+
+/* contact */
+.banner-contact {
+  height: 250px;
+  background-image: url(../img/contact/contact.jpg);
+  background-position: bottom;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
